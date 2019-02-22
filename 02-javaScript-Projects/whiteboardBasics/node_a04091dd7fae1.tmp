@@ -1,0 +1,9 @@
+for (let x = 0; 0 <= 100; x++) {
+     if(x % 15 == 0);
+        console.log('Fizz Buzz');
+     if (x % 5 == 0) 
+        console.log('Buzz');
+     else (x % 3 == 0) 
+        console.log('Fizz');
+}
+console.log(15);
